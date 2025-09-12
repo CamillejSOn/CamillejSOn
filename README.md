@@ -2,7 +2,7 @@
   
  
   
-  <h1>Olá👋</h1>
+  <h1>Hello World👋</h1>
   <p>Apaixonada por tecnologia e design. Bem-vindo(a) ao meu perfil!</p>
 
   
