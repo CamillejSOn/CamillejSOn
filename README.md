@@ -25,18 +25,7 @@
 
 ### 📊 Minhas Estatísticas do GitHub
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img width="420" src="https://github-readme-stats.vercel.app/api?username=CamillejSOn&show_icons=true&theme=tokyonight" />
-      </td>
-      <td>
-        <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamillejSOn&layout=compact&theme=tokyonight" />
-      </td>
-    </tr>
-  </table>
-</div>
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamillejSOn&theme=solarized_dark)
 
 ---
 
