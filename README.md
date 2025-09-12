@@ -5,7 +5,7 @@
   <h1>Olá! Sou a Camille 👋</h1>
   <p>Apaixonada por tecnologia e design. Bem-vindo(a) ao meu perfil!</p>
 
-  <img src="https://gpvc.arturio.dev/CamillejSOn">
+  
   
 </div>
 
