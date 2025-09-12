@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="URL_DO_SEU_BANNER_AQUI" width="600px">
+ 
   
   <h1>Olá! Sou a Camille 👋</h1>
   <p>Apaixonada por tecnologia e design. Bem-vindo(a) ao meu perfil!</p>
