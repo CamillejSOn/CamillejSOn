@@ -37,7 +37,7 @@
 ### 📊 Statistics GitHub
 
 ![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamillejSOn&theme=solarized_dark)
-![snake gif](https://github.com/CamillejSOn/CamillejSOn/blob/output/github-contribution-grid-snake.svg)
+![Metrics](https://metrics.lecoq.io/CamillejSOn?template=classic&base.header=true&base.activity.days=14&base.community.archived=false&base.repositories.list=false&config_timezone=America/Sao_Paulo&lines=true&lines.repositories=true&repositories=true&repositories.forks=false&repositories.stars=true)
 ---
 
 ### 📫 Contact
