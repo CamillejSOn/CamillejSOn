@@ -5,8 +5,13 @@
   
  
   
-  <h1>Hello World, my name is Camille Silva👋</h1>
-  <p>Building a future, one line of code at a time. Welcome to my profile!</p>
+  <h2>Hello World, my name is Camille Silva👋</h2>
+  <p>Born in Framingham, Massachusetts  
+📍 Currently based in João Monlevade, Brazil  
+🎓 Studying Information Systems at UFOP (Federal University of Ouro Preto)  
+💼 Development Intern at Sicoob Credimepi  
+
+💻 Passionate about building meaningful solutions, one line of code at a time.  </p>
 
   
   
