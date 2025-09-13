@@ -37,7 +37,7 @@
 ### 📊 Statistics GitHub
 
 ![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamillejSOn&theme=solarized_dark)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=CamillejSOn&theme=dracula&column=7&margin-w=15&margin-h=15)
+![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=CamillejSOn&theme=github-dark&hide_border=true)
 ---
 
 ### 📫 Contact
