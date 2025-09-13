@@ -37,7 +37,7 @@
 ### 📊 Statistics GitHub
 
 ![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamillejSOn&theme=solarized_dark)
-![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=CamillejSOn&theme=github-dark&hide_border=true)
+![snake gif](https://github.com/CamillejSOn/CamillejSOn/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ### 📫 Contact
