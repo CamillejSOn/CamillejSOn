@@ -4,7 +4,7 @@
 </a>
 
   
-  <h2>Hello World, my name is Camille Silva👋</h2>
+  <h2>Hello World, my name is Camille Silva Oliveira👋</h2>
 <p>    Born in Framingham, Massachusetts  </p>
 <p>📍 Currently based in João Monlevade, Brazil  </p>
 <p>🎓 Studying Information Systems at UFOP (Federal University of Ouro Preto) </p> 
