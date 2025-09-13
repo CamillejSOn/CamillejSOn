@@ -6,12 +6,12 @@
  
   
   <h2>Hello World, my name is Camille Silva👋</h2>
-  <p>Born in Framingham, Massachusetts  
-📍 Currently based in João Monlevade, Brazil  
-🎓 Studying Information Systems at UFOP (Federal University of Ouro Preto)  
-💼 Development Intern at Sicoob Credimepi  
+  <p>Born in Framingham, Massachusetts  </p>
+<p>📍 Currently based in João Monlevade, Brazil  </p>
+<p>🎓 Studying Information Systems at UFOP (Federal University of Ouro Preto) </p> 
+<p>💼 Development Intern at Sicoob Credimepi  </p>
 
-💻 Passionate about building meaningful solutions, one line of code at a time.  </p>
+<p>💻 Passionate about building meaningful solutions, one line of code at a time.  </p>
 
   
   
