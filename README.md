@@ -1,6 +1,6 @@
 
 <a href="README-pt.md">
-  <img align="center" src="https://img.shields.io/badge/View%20my%20profile%20in%20Portuguese-1A4E9E?style=flat-square&logo=Brazil&logoColor=white" alt="Visualize meu perfil em português" />
+  <img align="center" src="https://img.shields.io/badge/View%20my%20profile%20in%20Portuguese-FFFFFF?style=flat-square&logo=Brazil&logoColor=black" alt="Visualize meu perfil em português" />
 </a>
 
   
