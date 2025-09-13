@@ -4,8 +4,6 @@
 </a>
 
   
- 
-  
   <h2>Hello World, my name is Camille Silva👋</h2>
 <p>    Born in Framingham, Massachusetts  </p>
 <p>📍 Currently based in João Monlevade, Brazil  </p>
@@ -16,28 +14,11 @@
 
 ---
 
-### 📫 Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/camille-oliveira-2b3b052ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:cmille2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/camis.silva0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</p>
-
-
----
-
 ### 🎯 Currently Learning
 - Improving frontend skills with **HTML5**, **CSS3**, and **JavaScript**
 - Exploring **jQuery** for dynamic UI interactions
 - Diving into **Laravel** and **Livewire** for modern PHP development
 - Strengthening backend knowledge with **SQL** and database design
-
-### 🛠️ Goals 
-- Build my personal portfolio website from scratch
-- Create polished, responsive interfaces with advanced CSS and JavaScript
-- Contribute to open-source projects and collaborate with other developers
-- Grow into a junior frontend or full-stack developer role after graduation
 
 </div>
 
@@ -68,4 +49,14 @@
 ### 📊 Statistics GitHub
 
 ![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamillejSOn&theme=solarized_dark)
+
+---
+
+### 📫 Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/camille-oliveira-2b3b052ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:cmille2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/camis.silva0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</p>
 
