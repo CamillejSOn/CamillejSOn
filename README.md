@@ -36,9 +36,7 @@
 
 ### 📊 GitHub Statistics
 
-
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamillejSOn&theme=solarized_dark" alt="GitHub Profile Details" width="110%" />
-    
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamillejSOn&theme=solarized_dark)
 
 ---
 
