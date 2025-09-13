@@ -3,7 +3,7 @@
  
   
   <h1>Hello World👋</h1>
-  <p>Apaixonada por tecnologia e design. Bem-vindo(a) ao meu perfil!</p>
+  <p>Criando o futuro, uma linha de código de cada vez. Bem-vindo(a) ao meu perfil!</p>
 
   
   
