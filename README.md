@@ -37,7 +37,7 @@
 ### 📊 Statistics GitHub
 
 ![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamillejSOn&theme=solarized_dark)
-![Estatísticas de Camille no GitHub](https://github-readme-stats.vercel.app/api?username=CamillejSOn&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamillejSOn&layout=compact&theme=radical&hide_border=true)
 ---
 
 ### 📫 Contact
