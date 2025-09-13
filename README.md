@@ -38,6 +38,7 @@
 
 ![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamillejSOn&theme=solarized_dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CamillejSOn&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![GitHub Terminal Stats](https://github-stats-alpha.vercel.app/api?id=CamillejSOn&theme=dark_cherry)
 ---
 
 ### 📫 Contact
