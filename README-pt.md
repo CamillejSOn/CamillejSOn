@@ -1,5 +1,5 @@
 <a href="README.md">
-  <img align="center" src="https://img.shields.io/badge/View%20my%20profile%20in%20English-007ACC?style=flat-square&logo=United-States&logoColor=white" alt="View my profile in English" />
+  <img align="center" src="https://img.shields.io/badge/View%20my%20profile%20in%20English-005B64?style=flat-square&logo=United-States&logoColor=white" alt="View my profile in English" />
 </a>
 
 &nbsp; 
@@ -49,6 +49,7 @@
   <a href="mailto:cmille2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.instagram.com/camis.silva0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
+
 
 
 
