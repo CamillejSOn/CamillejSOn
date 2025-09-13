@@ -1,12 +1,12 @@
-<div align="center">
+
 <a href="README-pt.md">
-  <img align="center" src="https://img.shields.io/badge/Visualize%20meu%20perfil%20em%20português-33A446?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMzNBNDQ2IiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QnJhemlsPC90aXRsZT48cGF0aCBkPSJNMjEuODEyIDEyLjAwM2E5LjgxMiA5LjgxMiAwIDEgMS0xOS42MjUgMEMyLjE4OCAxNy41MjcgNi42MiAyMS44MTIgMTIgMjEuODEyYTkuNzUgOS43NSAwIDAgMCA5LjgxMi05LjgxWm0tOS44MTIgOC44MzRhOC44MzMgOC44MzMgMCAxIDAgMC0xNy42NjcgOC44MzMgOC44MzMgMCAwIDAgMCAxNy42NjdaTTQuNzkzIDEyaDQuMjQ1bC0yLjEyMiAyLjM0TDEyIDE4bDUuMDc4LTMuNjYtMi4xMTQtMi4zNEgxOS4yMDdMMTIgNi4wMDRaIi8+PC9zdmc+" />
+  <img align="center" src="https://img.shields.io/badge/Visualize%20meu%20perfil%20em%20português-318AF1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMzNBNDQ2IiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QnJhemlsPC90aXRsZT48cGF0aCBkPSJNMjEuODEyIDEyLjAwM2E5LjgxMiA5LjgxMiAwIDEgMS0xOS42MjUgMEMyLjE4OCAxNy41MjcgNi42MiAyMS44MTIgMTIgMjEuODEyYTkuNzUgOS43NSAwIDAgMCA5LjgxMi05LjgxWm0tOS44MTIgOC44MzRhOC44MzMgOC44MzMgMCAxIDAgMC0xNy42NjcgOC44MzMgOC44MzMgMCAwIDAgMCAxNy42NjdaTTQuNzkzIDEyaDQuMjQ1bC0yLjEyMiAyLjM0TDEyIDE4bDUuMDc4LTMuNjYtMi4xMTQtMi4zNEgxOS4yMDdMMTIgNi4wMDRaIi8+PC9zdmc+" />
 </a>
   
  
   
   <h1>Hello World, my name is Camille Silva👋</h1>
-  <p>Building a future, uma linha de código de cada vez. Bem-vindo(a) ao meu perfil!</p>
+  <p>Building a future, one line of code at a time. Welcome to my profile!</p>
 
   
   
