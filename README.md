@@ -1,20 +1,33 @@
 
 <a href="README-pt.md">
-  <img align="center" src="https://img.shields.io/badge/Visualize%20meu%20perfil%20em%20português-318AF1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMzNBNDQ2IiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QnJhemlsPC90aXRsZT48cGF0aCBkPSJNMjEuODEyIDEyLjAwM2E5LjgxMiA5LjgxMiAwIDEgMS0xOS42MjUgMEMyLjE4OCAxNy41MjcgNi42MiAyMS44MTIgMTIgMjEuODEyYTkuNzUgOS43NSAwIDAgMCA5LjgxMi05LjgxWm0tOS44MTIgOC44MzRhOC44MzMgOC44MzMgMCAxIDAgMC0xNy42NjcgOC44MzMgOC44MzMgMCAwIDAgMCAxNy42NjdaTTQuNzkzIDEyaDQuMjQ1bC0yLjEyMiAyLjM0TDEyIDE4bDUuMDc4LTMuNjYtMi4xMTQtMi4zNEgxOS4yMDdMMTIgNi4wMDRaIi8+PC9zdmc+" />
+  <img align="center" src="https://img.shields.io/badge/View%20my%20profile%20in%20Portuguese-1A4E9E?style=flat-square&logo=Brazil&logoColor=white" alt="Visualize meu perfil em português" />
 </a>
+
   
  
   
   <h2>Hello World, my name is Camille Silva👋</h2>
-  <p>Born in Framingham, Massachusetts  </p>
+<p>    Born in Framingham, Massachusetts  </p>
 <p>📍 Currently based in João Monlevade, Brazil  </p>
 <p>🎓 Studying Information Systems at UFOP (Federal University of Ouro Preto) </p> 
 <p>💼 Development Intern at Sicoob Credimepi  </p>
 
 <p>💻 Passionate about building meaningful solutions, one line of code at a time.  </p>
 
-  
-  
+---
+
+### 🎯 Currently Learning
+- Improving frontend skills with **HTML5**, **CSS3**, and **JavaScript**
+- Exploring **jQuery** for dynamic UI interactions
+- Diving into **Laravel** and **Livewire** for modern PHP development
+- Strengthening backend knowledge with **SQL** and database design
+
+### 🛠️ Goals 
+- Build my personal portfolio website from scratch
+- Create polished, responsive interfaces with advanced CSS and JavaScript
+- Contribute to open-source projects and collaborate with other developers
+- Grow into a junior frontend or full-stack developer role after graduation
+
 </div>
 
 ---
