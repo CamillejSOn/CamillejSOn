@@ -5,7 +5,7 @@
 &nbsp; 
 &nbsp;
 &nbsp; 
-<h2>Olá Mundo, meu nome é Camille Silva👋</h2>
+<h2>Olá Mundo, meu nome é Camille Silva Oliveira👋</h2>
 <p> &nbsp; &nbsp;Nascida em Framingham, Massachusetts &nbsp;</p>
 <p>📍 Atualmente morando em João Monlevade, Brasil &nbsp;</p>
 <p>🎓 Estudante de Sistemas de Informação na UFOP (Universidade Federal de Ouro Preto) </p> 
@@ -49,6 +49,7 @@
   <a href="mailto:cmille2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.instagram.com/camis.silva0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
+
 
 
 
