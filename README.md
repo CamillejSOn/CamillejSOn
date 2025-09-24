@@ -36,7 +36,7 @@
 
 ### 📊 GitHub Statistics
 
-![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamillejSOn&theme=solarized_dark)
+<img src="https://streak-stats.demolab.com?user=CamillejSOn&theme=dark&hide_border=true" alt="CamillejSOn's GitHub Stats" />
 
 ---
 
