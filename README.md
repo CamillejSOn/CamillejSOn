@@ -34,12 +34,6 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-<img src="https://streak-stats.demolab.com?user=CamillejSOn&theme=dark&hide_border=true" alt="CamillejSOn's GitHub Stats" />
-
----
-
 ### 📫 Contact
 
 <p align="center">
